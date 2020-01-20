@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'NiseBuschGardens';
+    src: url('NiseBuschGardens.eot');
+    src: url('NiseBuschGardens.eot?#iefix') format('embedded-opentype'),
+        url('NiseBuschGardens.woff2') format('woff2'),
+        url('NiseBuschGardens.woff') format('woff'),
+        url('NiseBuschGardens.ttf') format('truetype'),
+        url('NiseBuschGardens.svg#NiseBuschGardens') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

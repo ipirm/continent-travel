@@ -1,0 +1,27 @@
+<svg width="1160" height="540" viewBox="0 0 1160 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)" filter="url(#filter0_d)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M77 6H478.03C487.542 53.342 529.357 89 579.5 89C629.643 89 671.458 53.342 680.97 6H1083C1120 6 1150 35.9969 1150 73V459C1150 496.003 1120 526 1083 526H77C39.9969 526 10 496.003 10 459V73C10 35.9969 39.9969 6 77 6ZM589 460C605.016 460 618 447.016 618 431C618 414.984 605.016 402 589 402C572.984 402 560 414.984 560 431C560 447.016 572.984 460 589 460Z" fill="#43426B"/>
+<circle cx="396.5" cy="548.5" r="103.5" fill="white"/>
+<circle cx="109" cy="72" r="29" fill="white"/>
+<circle cx="1149.5" cy="354.5" r="54.5" fill="white"/>
+<path d="M1184 26.5C1184 56.5995 1159.6 81 1129.5 81C1099.4 81 1075 56.5995 1075 26.5C1075 -3.59952 1099.4 -28 1129.5 -28C1159.6 -28 1184 -3.59952 1184 26.5Z" fill="white"/>
+<path d="M73 518.5C73 548.6 48.5995 573 18.5 573C-11.5995 573 -36 548.6 -36 518.5C-36 488.4 -11.5995 464 18.5 464C48.5995 464 73 488.4 73 518.5Z" fill="white"/>
+<circle cx="171.5" cy="475.5" r="15.5" fill="white"/>
+<circle cx="1086.5" cy="491.5" r="15.5" fill="white"/>
+<circle cx="499.5" cy="171.5" r="15.5" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="1160" height="540" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="1140" height="520" fill="white" transform="translate(10 6)"/>
+</clipPath>
+</defs>
+</svg>
